@@ -15,3 +15,5 @@ nothing to commit, working directory clean
 
 # Как отправить ветку на сервер
 > git push -u "репозиторий" "ветка"
+
+Дополнил файл
